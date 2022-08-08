@@ -1,0 +1,17 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "model": "futuremc:slabs/polished_andesite/polished_andesite_slab"
+    },
+    "variants": {
+        "inventory": {
+            "model": "futuremc:item/polished_andesite_slab"
+        },
+        "half=bottom,variant=default": [
+            {}
+        ],
+        "half=top,variant=default": {
+            "model": "futuremc:slabs/polished_andesite/polished_andesite_slab_top"
+        }
+    }
+}

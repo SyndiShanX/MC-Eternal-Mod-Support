@@ -1,0 +1,6 @@
+{
+  "parent": "futuremc:block/cross",
+  "textures": {
+    "cross": "futuremc:block/sweet_berry_bush_stage0"
+  }
+}

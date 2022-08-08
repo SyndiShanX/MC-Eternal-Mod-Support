@@ -1,0 +1,23 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "futuremc:lantern/lantern"
+	},
+	"variants": {
+		"normal": [
+			{}
+		],
+		"inventory": {
+			"model": "futuremc:item/lantern"
+		},
+		"hanging=false": [
+			{ "model": "futuremc:lantern/lantern" },
+			{ "model": "futuremc:lantern/lantern_2" },
+			{ "model": "futuremc:lantern/lantern_3" }
+		],
+		"hanging=true": [
+			{ "model": "futuremc:lantern/lantern_hanging" },
+			{ "model": "futuremc:lantern/lantern_hanging_2" }
+		]
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"type=bottom": { "model": "futuremc:warped_slab" },
+		"type=top"   : { "model": "futuremc:warped_slab_top" },
+		"type=double": { "model": "futuremc:double_slab/warped_slab_double" }
+	}
+}

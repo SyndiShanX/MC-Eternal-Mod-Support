@@ -1,0 +1,21 @@
+{ "variants": {
+    "axis=y": [
+      { "model": "futuremc:warped_stem" },
+      { "model": "futuremc:warped_stem", "y": 90 },
+      { "model": "futuremc:warped_stem", "y": 180 },
+      { "model": "futuremc:warped_stem", "y": 270 }
+    ],
+    "axis=z": [
+      { "model": "futuremc:warped_stem_horizontal", "y": 90 },
+      { "model": "futuremc:warped_stem_horizontal", "x": 90, "y": 90 },
+      { "model": "futuremc:warped_stem_horizontal", "x": 180, "y": 90 },
+      { "model": "futuremc:warped_stem_horizontal", "x": 270, "y": 90 }
+    ],
+    "axis=x": [
+      { "model": "futuremc:warped_stem_horizontal" },
+      { "model": "futuremc:warped_stem_horizontal", "x": 90 },
+      { "model": "futuremc:warped_stem_horizontal", "x": 180 },
+      { "model": "futuremc:warped_stem_horizontal", "x": 270 }
+    ]
+  }
+}

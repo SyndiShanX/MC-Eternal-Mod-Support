@@ -1,0 +1,26 @@
+{
+	"multipart": [
+		{ "when": { "thick": "false" },
+			"apply": [
+				{ "model": "futuremc:bamboo/bamboo1_age0" },
+				{ "model": "futuremc:bamboo/bamboo2_age0" },
+				{ "model": "futuremc:bamboo/bamboo3_age0" },
+				{ "model": "futuremc:bamboo/bamboo4_age0" }
+			]
+		},
+		{ "when": { "thick": "true" },
+			"apply": [
+				{ "model": "futuremc:bamboo1_age1" },
+				{ "model": "futuremc:bamboo2_age1" },
+				{ "model": "futuremc:bamboo3_age1" },
+				{ "model": "futuremc:bamboo4_age1" }
+			]
+		},
+		{ "when": { "leaves": "small" },
+			"apply": { "model": "futuremc:bamboo_small_leaves" }
+		},
+		{ "when": { "leaves": "large" },
+			"apply": { "model": "futuremc:bamboo_large_leaves" }
+		}
+	]
+}

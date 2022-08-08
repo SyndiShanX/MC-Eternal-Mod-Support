@@ -1,0 +1,16 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "futuremc:plants/wither_rose/0"
+	},
+	"variants": {
+		"normal": [
+			{ "model": "futuremc:plants/wither_rose/0" },
+			{ "model": "futuremc:plants/wither_rose/1" },
+			{ "model": "futuremc:plants/wither_rose/2" }
+		],
+		"inventory": {
+			"model": "futuremc:item/wither_rose"
+		}
+	}
+}

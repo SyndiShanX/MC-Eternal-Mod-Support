@@ -1,0 +1,14 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "futuremc:double_slab/polished_andesite_slab_double"
+	},
+	"variants": {
+		"inventory": [
+			{}
+		],
+		"variant=default": [
+			{}
+		]
+	}
+}

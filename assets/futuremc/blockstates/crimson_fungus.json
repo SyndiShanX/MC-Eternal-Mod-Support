@@ -1,0 +1,15 @@
+{
+	"variants": {
+    "normal": [
+      { "model": "futuremc:mushroom/crimson/0" },
+      { "model": "futuremc:mushroom/crimson/1" },
+      { "model": "futuremc:mushroom/crimson/2" },
+      { "model": "futuremc:mushroom/crimson/3" },
+      { "model": "futuremc:mushroom/crimson/4" },
+      { "model": "futuremc:mushroom/crimson/5" },
+      { "model": "futuremc:mushroom/crimson/6" },
+      { "model": "futuremc:mushroom/crimson/7" },
+      { "model": "futuremc:mushroom/crimson/8" }
+    ]
+  }
+}

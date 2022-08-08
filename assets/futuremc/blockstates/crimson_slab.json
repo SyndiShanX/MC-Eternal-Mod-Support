@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"type=bottom": { "model": "futuremc:crimson_slab" },
+		"type=top": { "model": "futuremc:crimson_slab_top" },
+		"type=double": { "model": "futuremc:double_slab/crimson_slab_double" }
+	}
+}

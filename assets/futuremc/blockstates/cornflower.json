@@ -1,0 +1,16 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "futuremc:plants/cornflower/0"
+	},
+	"variants": {
+		"normal": [
+			{ "model": "futuremc:plants/cornflower/0" },
+			{ "model": "futuremc:plants/cornflower/1" },
+			{ "model": "futuremc:plants/cornflower/2" }
+		],
+		"inventory": {
+			"model": "futuremc:item/cornflower"
+		}
+	}
+}

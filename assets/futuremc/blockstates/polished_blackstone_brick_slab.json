@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "type=bottom": {
+            "model": "futuremc:polished_blackstone_brick_slab"
+        },
+        "type=double": {
+            "model": "futuremc:double_slab/polished_blackstone_brick_slab_double"
+        },
+        "type=top": {
+            "model": "futuremc:polished_blackstone_brick_slab_top"
+        }
+    }
+}

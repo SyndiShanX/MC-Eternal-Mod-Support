@@ -1,0 +1,24 @@
+{ "multipart": [
+  { "apply": [
+    { "model": "futuremc:mushroom/warped/0" },
+    { "model": "futuremc:mushroom/warped/1" },
+    { "model": "futuremc:mushroom/warped/2" },
+    { "model": "futuremc:mushroom/warped/3" },
+    { "model": "futuremc:mushroom/warped/4" },
+    { "model": "futuremc:mushroom/warped/5" },
+    { "model": "futuremc:mushroom/warped/6" },
+    { "model": "futuremc:mushroom/warped/7" },
+    { "model": "futuremc:mushroom/warped/8" }
+  ]},
+  { "apply": [
+    { "model": "futuremc:mushroom/warped/sprouts/0" },
+    { "model": "futuremc:mushroom/warped/sprouts/1" },
+    { "model": "futuremc:mushroom/warped/sprouts/2" },
+    { "model": "futuremc:mushroom/warped/sprouts/3" },
+    { "model": "futuremc:mushroom/warped/sprouts/4" },
+    { "model": "futuremc:mushroom/warped/sprouts/5" },
+    { "model": "futuremc:mushroom/warped/sprouts/6" },
+    { "model": "futuremc:mushroom/warped/sprouts/7" },
+    { "model": "futuremc:mushroom/warped/sprouts/8" }
+  ]}
+]}

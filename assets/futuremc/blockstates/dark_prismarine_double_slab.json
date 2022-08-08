@@ -1,0 +1,14 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "futuremc:double_slab/dark_prismarine_slab_double"
+	},
+	"variants": {
+		"inventory": [
+			{}
+		],
+		"variant=default": [
+			{}
+		]
+	}
+}

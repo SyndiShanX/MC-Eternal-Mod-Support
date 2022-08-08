@@ -1,0 +1,41 @@
+{
+	"forge_marker": 1,
+	"defaults": [
+		{ "model": "futuremc:mossy_cobblestone/slab/bottom/0", "weight":30 },
+		{ "model": "futuremc:mossy_cobblestone/slab/bottom/1", "weight":20 },
+		{ "model": "futuremc:mossy_cobblestone/slab/bottom/2", "weight":20 },
+		{ "model": "futuremc:mossy_cobblestone/slab/bottom/3", "weight":20 },
+		{ "model": "futuremc:mossy_cobblestone/slab/bottom/4", "weight":40 },
+		{ "model": "futuremc:mossy_cobblestone/slab/bottom/5", "weight":20 },
+		{ "model": "futuremc:mossy_cobblestone/slab/bottom/6", "weight":5 },
+		{ "model": "futuremc:mossy_cobblestone/slab/bottom/7", "weight":20 },
+		{ "model": "futuremc:mossy_cobblestone/slab/bottom/8", "weight":5 }
+	],
+	"variants": {
+		"inventory": {
+			"model": "futuremc:item/mossy_stone_slab"
+		},
+		"half=bottom,variant=default": [
+			{ "model": "futuremc:mossy_cobblestone/slab/bottom/0", "weight":30 },
+			{ "model": "futuremc:mossy_cobblestone/slab/bottom/1", "weight":20 },
+			{ "model": "futuremc:mossy_cobblestone/slab/bottom/2", "weight":20 },
+			{ "model": "futuremc:mossy_cobblestone/slab/bottom/3", "weight":20 },
+			{ "model": "futuremc:mossy_cobblestone/slab/bottom/4", "weight":40 },
+			{ "model": "futuremc:mossy_cobblestone/slab/bottom/5", "weight":20 },
+			{ "model": "futuremc:mossy_cobblestone/slab/bottom/6", "weight":5 },
+			{ "model": "futuremc:mossy_cobblestone/slab/bottom/7", "weight":20 },
+			{ "model": "futuremc:mossy_cobblestone/slab/bottom/8", "weight":5 }
+		],
+		"half=top,variant=default": [
+			{ "model": "futuremc:mossy_cobblestone/slab/top/0", "weight":30 },
+			{ "model": "futuremc:mossy_cobblestone/slab/top/1", "weight":20 },
+			{ "model": "futuremc:mossy_cobblestone/slab/top/2", "weight":20 },
+			{ "model": "futuremc:mossy_cobblestone/slab/top/3", "weight":20 },
+			{ "model": "futuremc:mossy_cobblestone/slab/top/4", "weight":40 },
+			{ "model": "futuremc:mossy_cobblestone/slab/top/5", "weight":20 },
+			{ "model": "futuremc:mossy_cobblestone/slab/top/6", "weight":5 },
+			{ "model": "futuremc:mossy_cobblestone/slab/top/7", "weight":20 },
+			{ "model": "futuremc:mossy_cobblestone/slab/top/8", "weight":5 }
+		]
+	}
+}

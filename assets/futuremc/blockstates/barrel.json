@@ -1,0 +1,153 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "model": "futuremc:barrel/barrel"
+    },
+    "variants": {
+        "facing=down,open=false": [
+        { "model": "futuremc:barrel/barrel", "x": 180 },
+        { "model": "futuremc:barrel/barrel", "x": 180, "y": 90 },
+        { "model": "futuremc:barrel/barrel", "x": 180, "y": 180 },
+        { "model": "futuremc:barrel/barrel", "x": 180, "y": 270 },
+        { "model": "futuremc:barrel/barrel_alt", "x": 180 },
+        { "model": "futuremc:barrel/barrel_alt", "x": 180, "y": 90 },
+        { "model": "futuremc:barrel/barrel_alt", "x": 180, "y": 180 },
+        { "model": "futuremc:barrel/barrel_alt", "x": 180, "y": 270 },
+        { "model": "futuremc:barrel/barrel", "x": 180 },
+        { "model": "futuremc:barrel/barrel", "x": 180, "y": 90 },
+        { "model": "futuremc:barrel/barrel", "x": 180, "y": 180 },
+        { "model": "futuremc:barrel/barrel", "x": 180, "y": 270 },
+        { "model": "futuremc:barrel/barrel_alt", "x": 180 },
+        { "model": "futuremc:barrel/barrel_alt", "x": 180, "y": 90 },
+        { "model": "futuremc:barrel/barrel_alt", "x": 180, "y": 180 },
+        { "model": "futuremc:barrel/barrel_alt", "x": 180, "y": 270 }
+    ],
+        "facing=up,open=false": [
+        	{ "model": "futuremc:barrel/barrel" },
+        	{ "model": "futuremc:barrel/barrel", "y": 90 },
+        	{ "model": "futuremc:barrel/barrel", "y": 180 },
+        	{ "model": "futuremc:barrel/barrel", "y": 270 },
+        	{ "model": "futuremc:barrel/barrel_alt" },
+        	{ "model": "futuremc:barrel/barrel_alt", "y": 90  },
+        	{ "model": "futuremc:barrel/barrel_alt", "y": 180  },
+        	{ "model": "futuremc:barrel/barrel_alt", "y": 270  },
+        	{ "model": "futuremc:barrel/barrel" },
+        	{ "model": "futuremc:barrel/barrel", "y": 90 },
+        	{ "model": "futuremc:barrel/barrel", "y": 180 },
+        	{ "model": "futuremc:barrel/barrel", "y": 270 },
+        	{ "model": "futuremc:barrel/barrel_alt" },
+        	{ "model": "futuremc:barrel/barrel_alt", "y": 90  },
+        	{ "model": "futuremc:barrel/barrel_alt", "y": 180  },
+        	{ "model": "futuremc:barrel/barrel_alt", "y": 270  }
+        ],
+        "facing=north,open=false": [
+        	{ "model": "futuremc:barrel/barrel", "x": 90 },
+        	{ "model": "futuremc:barrel/barrel_alt", "x": 90 },
+        	{ "model": "futuremc:barrel/barrel", "x": 90 },
+        	{ "model": "futuremc:barrel/barrel_alt", "x": 90 }
+        ],
+
+        "facing=south,open=false": [
+        	{ "model": "futuremc:barrel/barrel", "x": 90, "y": 180 },
+        	{ "model": "futuremc:barrel/barrel_alt", "x": 90, "y": 180 },
+        	{ "model": "futuremc:barrel/barrel", "x": 90, "y": 180 },
+        	{ "model": "futuremc:barrel/barrel_alt", "x": 90, "y": 180 }
+        ],
+        "facing=west,open=false": [
+        	{ "model": "futuremc:barrel/barrel", "x": 90, "y": 270 },
+			{ "model": "futuremc:barrel/barrel_alt", "x": 90, "y": 270 },
+			{ "model": "futuremc:barrel/barrel", "x": 90, "y": 270 },
+			{ "model": "futuremc:barrel/barrel_alt", "x": 90, "y": 270 }
+        ],
+        "facing=east,open=false": [
+        	{ "model": "futuremc:barrel/barrel", "x": 90, "y": 90 },
+        	{ "model": "futuremc:barrel/barrel_alt", "x": 90, "y": 90 },
+        	{ "model": "futuremc:barrel/barrel", "x": 90, "y": 90 },
+        	{ "model": "futuremc:barrel/barrel_alt", "x": 90, "y": 90 }
+        ],
+        "facing=down,open=true": [
+        	{ "model": "futuremc:barrel/barrel_open_half", "x": 180 },
+        	{ "model": "futuremc:barrel/barrel_open_half", "x": 180, "y": 90 },
+        	{ "model": "futuremc:barrel/barrel_open_half", "x": 180, "y": 180 },
+        	{ "model": "futuremc:barrel/barrel_open_half", "x": 180, "y": 270 },
+        	{ "model": "futuremc:barrel/barrel_open_half_alt", "x": 180 },
+        	{ "model": "futuremc:barrel/barrel_open_half_alt", "x": 180, "y": 90 },
+        	{ "model": "futuremc:barrel/barrel_open_half_alt", "x": 180, "y": 180 },
+        	{ "model": "futuremc:barrel/barrel_open_half_alt", "x": 180, "y": 270 },
+        	{ "model": "futuremc:barrel/barrel_open_full", "x": 180 },
+        	{ "model": "futuremc:barrel/barrel_open_full", "x": 180, "y": 90 },
+        	{ "model": "futuremc:barrel/barrel_open_full", "x": 180, "y": 180 },
+        	{ "model": "futuremc:barrel/barrel_open_full", "x": 180, "y": 270 },
+        	{ "model": "futuremc:barrel/barrel_open_full_alt", "x": 180 },
+        	{ "model": "futuremc:barrel/barrel_open_full_alt", "x": 180, "y": 90 },
+        	{ "model": "futuremc:barrel/barrel_open_full_alt", "x": 180, "y": 180 },
+        	{ "model": "futuremc:barrel/barrel_open_full_alt", "x": 180, "y": 270 }
+        ],
+        "facing=up,open=true": [
+        	{ "model": "futuremc:barrel/barrel_open_half" },
+        	{ "model": "futuremc:barrel/barrel_open_half","y": 90 },
+        	{ "model": "futuremc:barrel/barrel_open_half", "y": 180 },
+        	{ "model": "futuremc:barrel/barrel_open_half", "y": 270 },
+        	{ "model": "futuremc:barrel/barrel_open_half_alt" },
+        	{ "model": "futuremc:barrel/barrel_open_half_alt", "y": 90 },
+        	{ "model": "futuremc:barrel/barrel_open_half_alt", "y": 180 },
+        	{ "model": "futuremc:barrel/barrel_open_half_alt", "y": 270 },
+        	{ "model": "futuremc:barrel/barrel_open_full" },
+        	{ "model": "futuremc:barrel/barrel_open_full", "y": 90 },
+        	{ "model": "futuremc:barrel/barrel_open_full", "y": 180 },
+        	{ "model": "futuremc:barrel/barrel_open_full", "y": 270 },
+        	{ "model": "futuremc:barrel/barrel_open_full_alt" },
+        	{ "model": "futuremc:barrel/barrel_open_full_alt", "y": 90 },
+        	{ "model": "futuremc:barrel/barrel_open_full_alt", "y": 180 },
+        	{ "model": "futuremc:barrel/barrel_open_full_alt", "y": 270 }
+        ],
+        "facing=north,open=true": [
+        	{ "model": "futuremc:barrel/barrel_open_half", "x": 90 },
+        	{ "model": "futuremc:barrel/barrel_open_half_alt", "x": 90 },
+        	{ "model": "futuremc:barrel/barrel_open_full", "x": 90 },
+        	{ "model": "futuremc:barrel/barrel_open_full_alt", "x": 90 }
+        ],
+        "facing=north,open=true": [
+        	{ "model": "futuremc:barrel/barrel_open_half", "x": 90 },
+        	{ "model": "futuremc:barrel/barrel_open_half_alt", "x": 90 },
+        	{ "model": "futuremc:barrel/barrel_open_full", "x": 90 },
+        	{ "model": "futuremc:barrel/barrel_open_full_alt", "x": 90 }
+        ],
+        "facing=south,open=true": [
+        	{ "model": "futuremc:barrel/barrel_open_half", "x": 90, "y": 180 },
+        	{ "model": "futuremc:barrel/barrel_open_half_alt", "x": 90, "y": 180 },
+        	{ "model": "futuremc:barrel/barrel_open_full", "x": 90, "y": 180 },
+        	{ "model": "futuremc:barrel/barrel_open_full_alt", "x": 90, "y": 180 }
+        ],
+        "facing=south,open=true": [
+        	{ "model": "futuremc:barrel/barrel_open_half", "x": 90, "y": 180 },
+        	{ "model": "futuremc:barrel/barrel_open_half_alt", "x": 90, "y": 180 },
+        	{ "model": "futuremc:barrel/barrel_open_full", "x": 90, "y": 180 },
+        	{ "model": "futuremc:barrel/barrel_open_full_alt", "x": 90, "y": 180 }
+        ],
+        "facing=west,open=true": [
+        	{ "model": "futuremc:barrel/barrel_open_half", "x": 90, "y": 270 },
+        	{ "model": "futuremc:barrel/barrel_open_half_alt", "x": 90, "y": 270 },
+        	{ "model": "futuremc:barrel/barrel_open_full", "x": 90, "y": 270 },
+        	{ "model": "futuremc:barrel/barrel_open_full_alt", "x": 90, "y": 270 }
+        ],
+        "facing=west,open=true": [
+        	{ "model": "futuremc:barrel/barrel_open_half", "x": 90, "y": 270 },
+        	{ "model": "futuremc:barrel/barrel_open_half_alt", "x": 90, "y": 270 },
+        	{ "model": "futuremc:barrel/barrel_open_full", "x": 90, "y": 270 },
+        	{ "model": "futuremc:barrel/barrel_open_full_alt", "x": 90, "y": 270 }
+        ],
+        "facing=east,open=true": [
+        	{ "model": "futuremc:barrel/barrel_open_half", "x": 90, "y": 90 },
+        	{ "model": "futuremc:barrel/barrel_open_half_alt", "x": 90, "y": 90 },
+        	{ "model": "futuremc:barrel/barrel_open_full", "x": 90, "y": 90 },
+        	{ "model": "futuremc:barrel/barrel_open_full_alt", "x": 90, "y": 90 }
+        ],
+        "facing=east,open=true": [
+        	{ "model": "futuremc:barrel/barrel_open_half", "x": 90, "y": 90 },
+        	{ "model": "futuremc:barrel/barrel_open_half_alt", "x": 90, "y": 90 },
+        	{ "model": "futuremc:barrel/barrel_open_full", "x": 90, "y": 90 },
+        	{ "model": "futuremc:barrel/barrel_open_full_alt", "x": 90, "y": 90 }
+        ]
+    }
+}

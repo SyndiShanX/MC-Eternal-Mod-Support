@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "normal": [
+        	{ "model": "futuremc:sapling/bamboo/0" },
+        	{ "model": "futuremc:sapling/bamboo/1" },
+        	{ "model": "futuremc:sapling/bamboo/2" }
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"": [
+			{ "model": "futuremc:torch/soul_torch" },
+			{ "model": "futuremc:torch/soul_torch", "y": 90 },
+			{ "model": "futuremc:torch/soul_torch", "y": 180 },
+			{ "model": "futuremc:torch/soul_torch", "y": 270 }
+		]
+	}
+}

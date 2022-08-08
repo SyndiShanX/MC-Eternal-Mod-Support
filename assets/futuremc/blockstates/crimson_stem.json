@@ -1,0 +1,22 @@
+{
+	"variants": {
+    "axis=y": [
+      { "model": "futuremc:crimson_stem" },
+      { "model": "futuremc:crimson_stem", "y": 90 },
+      { "model": "futuremc:crimson_stem", "y": 180 },
+      { "model": "futuremc:crimson_stem", "y": 270 }
+    ],
+    "axis=z": [
+      { "model": "futuremc:crimson_stem_horizontal", "y": 90 },
+      { "model": "futuremc:crimson_stem_horizontal", "x": 90, "y": 90 },
+      { "model": "futuremc:crimson_stem_horizontal", "x": 180, "y": 90 },
+      { "model": "futuremc:crimson_stem_horizontal", "x": 270, "y": 90 }
+    ],
+    "axis=x": [
+      { "model": "futuremc:crimson_stem_horizontal" },
+      { "model": "futuremc:crimson_stem_horizontal", "x": 90 },
+      { "model": "futuremc:crimson_stem_horizontal", "x": 180 },
+      { "model": "futuremc:crimson_stem_horizontal", "x": 270 }
+    ]
+  }
+}

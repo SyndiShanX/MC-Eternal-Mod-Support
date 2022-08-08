@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=east": { "model": "futuremc:torch/soul_torch_wall" },
+		"facing=south": { "model": "futuremc:torch/soul_torch_wall", "y": 90 },
+		"facing=west": { "model": "futuremc:torch/soul_torch_wall", "y": 180 },
+		"facing=north": { "model": "futuremc:torch/soul_torch_wall", "y": 270 }
+	}
+}
