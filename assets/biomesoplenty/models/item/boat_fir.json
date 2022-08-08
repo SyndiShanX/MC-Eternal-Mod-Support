@@ -1,0 +1,6 @@
+{
+    "parent": "item/boat",
+    "textures": {
+        "texture": "biomesoplenty:entity/boats/item/boat_fir"
+    }
+}
