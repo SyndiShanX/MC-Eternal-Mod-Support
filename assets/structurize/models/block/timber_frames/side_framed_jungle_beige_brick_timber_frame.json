@@ -1,0 +1,10 @@
+{ "parent": "structurize:block/timber_frames/templates/side_framed_timber_frame",
+	"textures": {
+		"2": "structurize:blocks/timberframe/base/beige_brick/full",
+		"3": "structurize:blocks/timberframe/base/beige_brick/tall",
+		"4": "structurize:blocks/timberframe/frame/jungle/blocktimberframetopendcap",
+		"5": "structurize:blocks/timberframe/frame/jungle/blocksideframedside",
+		"frame": "minecraft:block/jungle_planks",
+		"particle": "minecraft:block/jungle_planks"
+	}
+}

@@ -1,0 +1,86 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"ambientocclusion": false,
+	"textures": {
+		"0": "minecolonies:blocks/construction_tape",
+		"particle": "minecolonies:blocks/construction_tape"
+	},
+	"elements": [
+		{
+			"name": "post",
+			"from": [6, 0, 0],
+			"to": [10, 16, 1],
+			"faces": {
+				"north": {"uv": [0.032, 0.032, 3.968, 15.968], "texture": "#0"},
+				"east": {"uv": [4.032, 0.032, 4.968, 15.968], "texture": "#0"},
+				"south": {"uv": [0.032, 0.032, 3.968, 15.968], "texture": "#0"},
+				"west": {"uv": [5.032, 0.032, 5.968, 15.968], "texture": "#0"},
+				"up": {"uv": [7.032, 0.032, 7.968, 3.968], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [8.032, 0.032, 8.968, 3.968], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"name": "other_post",
+			"from": [6, 0, 15],
+			"to": [10, 16, 16],
+			"faces": {
+				"north": {"uv": [0.032, 0.032, 3.968, 15.968], "texture": "#0"},
+				"east": {"uv": [5.032, 0.032, 5.968, 15.968], "texture": "#0"},
+				"south": {"uv": [0.032, 0.032, 3.968, 15.968], "texture": "#0"},
+				"west": {"uv": [4.032, 0.032, 4.968, 15.968], "texture": "#0"},
+				"up": {"uv": [6.032, 0.032, 6.968, 3.968], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [9.032, 0.032, 9.968, 3.968], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"name": "chain_outer",
+			"from": [7, 13.53596, 0.55552],
+			"to": [9, 14.53596, 4.30552],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 14.03596, 2.80552]},
+			"faces": {
+				"east": {"uv": [10.5, 11.032, 11.5, 13.968], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [10.5, 8.032, 11.5, 9.968], "rotation": 90, "texture": "#0"},
+				"west": {"uv": [10.5, 4.032, 11.5, 6.968], "rotation": 90, "texture": "#0"},
+				"up": {"uv": [10, 4, 8, 8], "texture": "#0"},
+				"down": {"uv": [9.968, 4.032, 8.032, 6.968], "texture": "#0"}
+			}
+		},
+		{
+			"name": "other_chain_outer",
+			"from": [7, 13.53596, 11.69448],
+			"to": [9, 14.53596, 15.44448],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 14.03596, 13.19448]},
+			"faces": {
+				"north": {"uv": [10.5, 8.032, 11.5, 9.968], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [10.5, 4.032, 11.5, 6.968], "rotation": 90, "texture": "#0"},
+				"west": {"uv": [10.5, 11.032, 11.5, 13.968], "rotation": 90, "texture": "#0"},
+				"up": {"uv": [10, 10, 8, 14], "texture": "#0"},
+				"down": {"uv": [9.968, 11.032, 8.032, 13.968], "texture": "#0"}
+			}
+		},
+		{
+			"name": "chain_mid",
+			"from": [7, 13, 4],
+			"to": [9, 14, 12],
+			"faces": {
+				"north": {"uv": [10.5, 8.032, 11.5, 9.968], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [10.5, 5.032, 11.5, 12.968], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [10.5, 8.032, 11.5, 9.968], "rotation": 90, "texture": "#0"},
+				"west": {"uv": [10.5, 5.032, 11.5, 12.968], "rotation": 90, "texture": "#0"},
+				"up": {"uv": [9.968, 5.032, 8.032, 12.968], "texture": "#0"},
+				"down": {"uv": [9.968, 5.032, 8.032, 12.968], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [30, 135, 0],
+			"scale": [0.625, 0.625, 0.625]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	}
+}

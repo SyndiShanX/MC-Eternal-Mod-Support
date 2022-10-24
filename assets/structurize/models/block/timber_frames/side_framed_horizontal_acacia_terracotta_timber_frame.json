@@ -1,0 +1,10 @@
+{ "parent": "structurize:block/timber_frames/templates/side_framed_horizontal_timber_frame",
+	"textures": {
+		"2": "structurize:blocks/timberframe/base/terracotta/full",
+		"3": "structurize:blocks/timberframe/base/terracotta/middle",
+		"4": "structurize:blocks/timberframe/frame/acacia/blockhorizontalnocapside",
+		"5": "structurize:blocks/timberframe/frame/acacia/blocktimberframetopendcap",
+		"frame": "minecraft:block/acacia_planks",
+		"particle": "minecraft:block/acacia_planks"
+	}
+}

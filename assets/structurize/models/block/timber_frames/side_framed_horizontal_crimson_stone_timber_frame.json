@@ -1,0 +1,10 @@
+{ "parent": "structurize:block/timber_frames/templates/side_framed_horizontal_timber_frame",
+	"textures": {
+		"2": "structurize:blocks/timberframe/base/stone/full",
+		"3": "structurize:blocks/timberframe/base/stone/middle",
+		"4": "structurize:blocks/timberframe/frame/crimson/blockhorizontalnocapside",
+		"5": "structurize:blocks/timberframe/frame/crimson/blocktimberframetopendcap",
+		"frame": "minecraft:block/crimson_planks",
+		"particle": "minecraft:block/crimson_planks"
+	}
+}

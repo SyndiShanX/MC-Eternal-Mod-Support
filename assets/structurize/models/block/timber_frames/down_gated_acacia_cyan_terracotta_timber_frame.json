@@ -1,0 +1,11 @@
+{ "parent": "structurize:block/timber_frames/templates/down_gated_timber_frame",
+	"textures": {
+		"2": "structurize:blocks/timberframe/base/cyan_terracotta/full",
+		"3": "structurize:blocks/timberframe/base/cyan_terracotta/bottom",
+		"4": "structurize:blocks/timberframe/frame/acacia/blockdowngateside",
+		"5": "structurize:blocks/timberframe/frame/acacia/blockframedside",
+		"6": "structurize:blocks/timberframe/frame/acacia/blocktimberframetopendcap",
+		"frame": "minecraft:block/acacia_planks",
+		"particle": "minecraft:block/acacia_planks"
+	}
+}

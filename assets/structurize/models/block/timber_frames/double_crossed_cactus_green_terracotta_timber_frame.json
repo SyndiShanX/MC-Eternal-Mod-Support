@@ -1,0 +1,11 @@
+{ "parent": "structurize:block/timber_frames/templates/double_crossed_timber_frame",
+  "textures": {
+    "2": "structurize:blocks/timberframe/base/green_terracotta/cross",
+    "3": "structurize:blocks/timberframe/base/green_terracotta/full",
+    "4": "structurize:blocks/timberframe/frame/cactus/blockcrossbeam",
+    "5": "structurize:blocks/timberframe/frame/cactus/blockdoublecrossedside",
+    "6": "structurize:blocks/timberframe/frame/cactus/blockframedside",
+    "frame": "structurize:blocks/cactus/cactus_planks",
+    "particle": "structurize:blocks/cactus/cactus_planks"
+  }
+}

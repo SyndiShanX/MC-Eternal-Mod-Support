@@ -1,0 +1,10 @@
+{ "parent": "structurize:block/timber_frames/templates/horizontal_plain_timber_frame",
+	"textures": {
+		"2": "structurize:blocks/timberframe/base/dark_oak/full",
+		"3": "structurize:blocks/timberframe/frame/warped/blockhorizontalplain",
+		"4": "structurize:blocks/timberframe/base/dark_oak/horizontal",
+		"5": "structurize:blocks/timberframe/frame/warped/blockframedside",
+		"frame": "minecraft:block/warped_planks",
+		"particle": "minecraft:block/warped_planks"
+	}
+}

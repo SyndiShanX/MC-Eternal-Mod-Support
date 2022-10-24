@@ -1,0 +1,9 @@
+{ "parent": "structurize:block/timber_frames/templates/framed_timber_frame",
+	"textures": {
+		"2": "structurize:blocks/timberframe/base/yellow_terracotta/framed",
+		"3": "structurize:blocks/timberframe/base/yellow_terracotta/full",
+		"4": "structurize:blocks/timberframe/frame/oak/blockframedside",
+		"frame": "minecraft:block/oak_planks",
+		"particle": "minecraft:block/oak_planks"
+	}
+}

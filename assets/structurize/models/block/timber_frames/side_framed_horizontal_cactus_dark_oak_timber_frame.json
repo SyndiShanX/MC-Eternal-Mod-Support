@@ -1,0 +1,10 @@
+{ "parent": "structurize:block/timber_frames/templates/side_framed_horizontal_timber_frame",
+	"textures": {
+		"2": "structurize:blocks/timberframe/base/dark_oak/full",
+		"3": "structurize:blocks/timberframe/base/dark_oak/middle",
+		"4": "structurize:blocks/timberframe/frame/cactus/blockhorizontalnocapside",
+		"5": "structurize:blocks/timberframe/frame/cactus/blocktimberframetopendcap",
+		"frame": "structurize:blocks/cactus/cactus_planks",
+		"particle": "structurize:blocks/cactus/cactus_planks"
+	}
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "structurize:block/shingle/shingle_convex",
+  "textures": {
+    "1": "structurize:blocks/shingle/gilded_blackstone_shingle_1",
+    "2": "structurize:blocks/shingle/gilded_blackstone_shingle_2",
+    "3": "structurize:blocks/shingle/gilded_blackstone_shingle_3",
+    "particle": "structurize:blocks/shingle/gilded_blackstone_shingle_1",
+    "plank": "minecraft:block/warped_planks"
+  }
+}

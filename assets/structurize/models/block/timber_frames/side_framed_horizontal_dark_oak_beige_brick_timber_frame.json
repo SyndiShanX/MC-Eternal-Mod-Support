@@ -1,0 +1,10 @@
+{ "parent": "structurize:block/timber_frames/templates/side_framed_horizontal_timber_frame",
+	"textures": {
+		"2": "structurize:blocks/timberframe/base/beige_brick/full",
+		"3": "structurize:blocks/timberframe/base/beige_brick/middle",
+		"4": "structurize:blocks/timberframe/frame/dark_oak/blockhorizontalnocapside",
+		"5": "structurize:blocks/timberframe/frame/dark_oak/blocktimberframetopendcap",
+		"frame": "minecraft:block/dark_oak_planks",
+		"particle": "minecraft:block/dark_oak_planks"
+	}
+}

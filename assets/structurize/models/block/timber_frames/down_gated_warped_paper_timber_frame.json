@@ -1,0 +1,11 @@
+{ "parent": "structurize:block/timber_frames/templates/down_gated_timber_frame",
+	"textures": {
+		"2": "structurize:blocks/timberframe/base/paper/full",
+		"3": "structurize:blocks/timberframe/base/paper/bottom",
+		"4": "structurize:blocks/timberframe/frame/warped/blockdowngateside",
+		"5": "structurize:blocks/timberframe/frame/warped/blockframedside",
+		"6": "structurize:blocks/timberframe/frame/warped/blocktimberframetopendcap",
+		"frame": "minecraft:block/warped_planks",
+		"particle": "minecraft:block/warped_planks"
+	}
+}

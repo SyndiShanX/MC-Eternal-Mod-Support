@@ -1,0 +1,11 @@
+{ "parent": "structurize:block/timber_frames/templates/one_crossed_lr_timber_frame",
+	"textures": {
+		"2": "structurize:blocks/timberframe/base/blue_terracotta/diaganal-lr",
+		"3": "structurize:blocks/timberframe/base/blue_terracotta/full",
+		"4": "structurize:blocks/timberframe/frame/crimson/blockframedside",
+		"5": "structurize:blocks/timberframe/frame/crimson/blockonecrossedsidelr",
+		"6": "structurize:blocks/timberframe/frame/crimson/blockcrossbeam",
+		"frame": "minecraft:block/crimson_planks",
+		"particle": "minecraft:block/crimson_planks"
+	}
+}

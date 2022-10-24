@@ -1,0 +1,10 @@
+{ "parent": "structurize:block/timber_frames/templates/horizontal_plain_timber_frame",
+	"textures": {
+		"2": "structurize:blocks/timberframe/base/orange_terracotta/full",
+		"3": "structurize:blocks/timberframe/frame/jungle/blockhorizontalplain",
+		"4": "structurize:blocks/timberframe/base/orange_terracotta/horizontal",
+		"5": "structurize:blocks/timberframe/frame/jungle/blockframedside",
+		"frame": "minecraft:block/jungle_planks",
+		"particle": "minecraft:block/jungle_planks"
+	}
+}

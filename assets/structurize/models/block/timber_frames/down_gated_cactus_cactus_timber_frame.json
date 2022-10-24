@@ -1,0 +1,11 @@
+{ "parent": "structurize:block/timber_frames/templates/down_gated_timber_frame",
+	"textures": {
+		"2": "structurize:blocks/timberframe/base/cactus/full",
+		"3": "structurize:blocks/timberframe/base/cactus/bottom",
+		"4": "structurize:blocks/timberframe/frame/cactus/blockdowngateside",
+		"5": "structurize:blocks/timberframe/frame/cactus/blockframedside",
+		"6": "structurize:blocks/timberframe/frame/cactus/blocktimberframetopendcap",
+		"frame": "structurize:blocks/cactus/cactus_planks",
+		"particle": "structurize:blocks/cactus/cactus_planks"
+	}
+}

@@ -1,0 +1,11 @@
+{ "parent": "structurize:block/timber_frames/templates/down_gated_timber_frame",
+	"textures": {
+		"2": "structurize:blocks/timberframe/base/oak/full",
+		"3": "structurize:blocks/timberframe/base/oak/bottom",
+		"4": "structurize:blocks/timberframe/frame/birch/blockdowngateside",
+		"5": "structurize:blocks/timberframe/frame/birch/blockframedside",
+		"6": "structurize:blocks/timberframe/frame/birch/blocktimberframetopendcap",
+		"frame": "minecraft:block/birch_planks",
+		"particle": "minecraft:block/birch_planks"
+	}
+}

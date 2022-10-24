@@ -1,0 +1,10 @@
+{ "parent": "structurize:block/timber_frames/templates/horizontal_plain_timber_frame",
+	"textures": {
+		"2": "structurize:blocks/timberframe/base/cream_brick/full",
+		"3": "structurize:blocks/timberframe/frame/oak/blockhorizontalplain",
+		"4": "structurize:blocks/timberframe/base/cream_brick/horizontal",
+		"5": "structurize:blocks/timberframe/frame/oak/blockframedside",
+		"frame": "minecraft:block/oak_planks",
+		"particle": "minecraft:block/oak_planks"
+	}
+}

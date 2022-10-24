@@ -1,0 +1,10 @@
+{
+  "parent": "structurize:block/shingle/shingle_convex",
+  "textures": {
+    "1": "structurize:blocks/shingle/moss_slate_shingle_1",
+    "2": "structurize:blocks/shingle/moss_slate_shingle_2",
+    "3": "structurize:blocks/shingle/moss_slate_shingle_3",
+    "particle": "structurize:blocks/shingle/moss_slate_shingle_1",
+    "plank": "minecraft:block/crimson_planks"
+  }
+}

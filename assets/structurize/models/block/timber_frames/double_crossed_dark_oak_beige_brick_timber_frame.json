@@ -1,0 +1,11 @@
+{ "parent": "structurize:block/timber_frames/templates/double_crossed_timber_frame",
+  "textures": {
+    "2": "structurize:blocks/timberframe/base/beige_brick/cross",
+    "3": "structurize:blocks/timberframe/base/beige_brick/full",
+    "4": "structurize:blocks/timberframe/frame/dark_oak/blockcrossbeam",
+    "5": "structurize:blocks/timberframe/frame/dark_oak/blockdoublecrossedside",
+    "6": "structurize:blocks/timberframe/frame/dark_oak/blockframedside",
+    "frame": "minecraft:block/dark_oak_planks",
+    "particle": "minecraft:block/dark_oak_planks"
+  }
+}

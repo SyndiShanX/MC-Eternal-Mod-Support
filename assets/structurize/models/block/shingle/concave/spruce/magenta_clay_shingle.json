@@ -1,0 +1,11 @@
+{
+  "parent": "structurize:block/shingle/shingle_concave",
+  "textures": {
+    "1": "structurize:blocks/shingle/magenta_clay_shingle_1",
+    "2": "structurize:blocks/shingle/magenta_clay_shingle_2",
+    "3": "structurize:blocks/shingle/magenta_clay_shingle_3",
+    "particle": "structurize:blocks/shingle/magenta_clay_shingle_1",
+    "plank": "minecraft:block/spruce_planks",
+    "stone": "minecraft:block/cobblestone"
+  }
+}

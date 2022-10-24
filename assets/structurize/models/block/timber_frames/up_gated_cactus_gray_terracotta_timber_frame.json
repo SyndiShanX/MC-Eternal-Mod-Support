@@ -1,0 +1,11 @@
+{ "parent": "structurize:block/timber_frames/templates/up_gated_timber_frame",
+	"textures": {
+		"2": "structurize:blocks/timberframe/base/gray_terracotta/full",
+		"3": "structurize:blocks/timberframe/base/gray_terracotta/top",
+		"4": "structurize:blocks/timberframe/frame/cactus/blocktimberframetopendcap",
+		"5": "structurize:blocks/timberframe/frame/cactus/blockframedside",
+		"6": "structurize:blocks/timberframe/frame/cactus/blockgateframedside",
+		"frame": "structurize:blocks/cactus/cactus_planks",
+		"particle": "structurize:blocks/cactus/cactus_planks"
+	}
+}

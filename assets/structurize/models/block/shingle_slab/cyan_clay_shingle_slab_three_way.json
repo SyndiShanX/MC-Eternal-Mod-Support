@@ -1,0 +1,10 @@
+{
+  "parent": "structurize:block/shingle_slab/template/shingle_slab_three_way",
+  "textures": {
+    "0": "structurize:blocks/shingle_slab/clay_shingle_1",
+    "1": "structurize:blocks/shingle/cyan_clay_shingle_1",
+    "2": "structurize:blocks/shingle/cyan_clay_shingle_2",
+    "3": "structurize:blocks/shingle/cyan_clay_shingle_3",
+    "particle": "structurize:blocks/shingle/cyan_clay_shingle_1"
+  }
+}

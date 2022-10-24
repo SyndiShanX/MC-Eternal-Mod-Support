@@ -1,0 +1,11 @@
+{ "parent": "structurize:block/timber_frames/templates/double_crossed_timber_frame",
+  "textures": {
+    "2": "structurize:blocks/timberframe/base/paper/cross",
+    "3": "structurize:blocks/timberframe/base/paper/full",
+    "4": "structurize:blocks/timberframe/frame/jungle/blockcrossbeam",
+    "5": "structurize:blocks/timberframe/frame/jungle/blockdoublecrossedside",
+    "6": "structurize:blocks/timberframe/frame/jungle/blockframedside",
+    "frame": "minecraft:block/jungle_planks",
+    "particle": "minecraft:block/jungle_planks"
+  }
+}

@@ -1,0 +1,10 @@
+{ "parent": "structurize:block/timber_frames/templates/plain_timber_frame",
+	"textures": {
+		"2": "structurize:blocks/timberframe/base/black_terracotta/plain",
+		"3": "structurize:blocks/timberframe/base/black_terracotta/full",
+		"4": "structurize:blocks/timberframe/frame/crimson/blockframedside",
+		"5": "structurize:blocks/timberframe/frame/crimson/blockplainframeside",
+		"frame": "minecraft:block/crimson_planks",
+		"particle": "minecraft:block/crimson_planks"
+	}
+}

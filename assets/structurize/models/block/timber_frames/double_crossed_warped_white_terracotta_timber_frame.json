@@ -1,0 +1,11 @@
+{ "parent": "structurize:block/timber_frames/templates/double_crossed_timber_frame",
+  "textures": {
+    "2": "structurize:blocks/timberframe/base/white_terracotta/cross",
+    "3": "structurize:blocks/timberframe/base/white_terracotta/full",
+    "4": "structurize:blocks/timberframe/frame/warped/blockcrossbeam",
+    "5": "structurize:blocks/timberframe/frame/warped/blockdoublecrossedside",
+    "6": "structurize:blocks/timberframe/frame/warped/blockframedside",
+    "frame": "minecraft:block/warped_planks",
+    "particle": "minecraft:block/warped_planks"
+  }
+}

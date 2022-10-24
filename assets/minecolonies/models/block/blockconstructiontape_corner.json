@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "minecolonies:blocks/construction_tape",
+		"particle": "minecolonies:blocks/construction_tape"
+	},
+	"elements": [
+		{
+			"name": "center_post",
+			"from": [7, 0, 7],
+			"to": [9, 13, 9],
+			"faces": {
+				"north": {"uv": [6.032, 4.032, 7.968, 15.968], "texture": "#0"},
+				"east": {"uv": [6.032, 4.032, 7.968, 15.968], "texture": "#0"},
+				"south": {"uv": [6.032, 4.032, 7.968, 15.968], "texture": "#0"},
+				"west": {"uv": [6.032, 4.032, 7.968, 15.968], "texture": "#0"},
+				"up": {"uv": [10.032, 0.032, 11.968, 1.968], "texture": "#0"},
+				"down": {"uv": [12.032, 0.032, 13.968, 1.968], "texture": "#0"}
+			}
+		}
+	]
+}

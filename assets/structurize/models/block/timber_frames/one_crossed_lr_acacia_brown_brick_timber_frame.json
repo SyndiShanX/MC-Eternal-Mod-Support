@@ -1,0 +1,11 @@
+{ "parent": "structurize:block/timber_frames/templates/one_crossed_lr_timber_frame",
+	"textures": {
+		"2": "structurize:blocks/timberframe/base/brown_brick/diaganal-lr",
+		"3": "structurize:blocks/timberframe/base/brown_brick/full",
+		"4": "structurize:blocks/timberframe/frame/acacia/blockframedside",
+		"5": "structurize:blocks/timberframe/frame/acacia/blockonecrossedsidelr",
+		"6": "structurize:blocks/timberframe/frame/acacia/blockcrossbeam",
+		"frame": "minecraft:block/acacia_planks",
+		"particle": "minecraft:block/acacia_planks"
+	}
+}

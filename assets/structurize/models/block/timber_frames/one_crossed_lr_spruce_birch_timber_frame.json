@@ -1,0 +1,11 @@
+{ "parent": "structurize:block/timber_frames/templates/one_crossed_lr_timber_frame",
+	"textures": {
+		"2": "structurize:blocks/timberframe/base/birch/diaganal-lr",
+		"3": "structurize:blocks/timberframe/base/birch/full",
+		"4": "structurize:blocks/timberframe/frame/spruce/blockframedside",
+		"5": "structurize:blocks/timberframe/frame/spruce/blockonecrossedsidelr",
+		"6": "structurize:blocks/timberframe/frame/spruce/blockcrossbeam",
+		"frame": "minecraft:block/spruce_planks",
+		"particle": "minecraft:block/spruce_planks"
+	}
+}

@@ -1,0 +1,11 @@
+{ "parent": "structurize:block/timber_frames/templates/up_gated_timber_frame",
+	"textures": {
+		"2": "structurize:blocks/timberframe/base/orange_terracotta/full",
+		"3": "structurize:blocks/timberframe/base/orange_terracotta/top",
+		"4": "structurize:blocks/timberframe/frame/oak/blocktimberframetopendcap",
+		"5": "structurize:blocks/timberframe/frame/oak/blockframedside",
+		"6": "structurize:blocks/timberframe/frame/oak/blockgateframedside",
+		"frame": "minecraft:block/oak_planks",
+		"particle": "minecraft:block/oak_planks"
+	}
+}

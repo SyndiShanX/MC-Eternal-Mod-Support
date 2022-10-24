@@ -1,0 +1,10 @@
+{ "parent": "structurize:block/timber_frames/templates/plain_timber_frame",
+	"textures": {
+		"2": "structurize:blocks/timberframe/base/brick/plain",
+		"3": "structurize:blocks/timberframe/base/brick/full",
+		"4": "structurize:blocks/timberframe/frame/cactus/blockframedside",
+		"5": "structurize:blocks/timberframe/frame/cactus/blockplainframeside",
+		"frame": "structurize:blocks/cactus/cactus_planks",
+		"particle": "structurize:blocks/cactus/cactus_planks"
+	}
+}

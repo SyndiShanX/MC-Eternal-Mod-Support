@@ -1,0 +1,7 @@
+{
+    "parent": "block/fence/fence_post",
+    "textures": {
+        "particle": "structurize:blocks/cactus/cactus_planks",
+        "0": "structurize:blocks/cactus/cactus_fence"
+    }
+}
